@@ -1,0 +1,1100 @@
+ED=0.1, RKAP=0
+E_th=  0.0  Exp = 0.0
+E_th=  0.1  Exp = 0.123
+E_th=  0.2  Exp = 0.385
+E_th=  0.3  Exp = 0.76
+E_th=  0.4  Exp = 1.223
+E_th=  0.5  Exp = 1.753
+E_th=  0.6  Exp = 2.33
+E_th=  0.7  Exp = 2.899
+Chi2=  10.322193
+ED=0.1, RKAP=-0.01
+E_th=  0.0  Exp = 0.0
+E_th=  0.04  Exp = 0.123
+E_th=  0.095  Exp = 0.385
+E_th=  0.164  Exp = 0.76
+E_th=  0.246  Exp = 1.223
+E_th=  0.34  Exp = 1.753
+E_th=  0.446  Exp = 2.33
+E_th=  0.562  Exp = 2.899
+Chi2=  12.408328
+ED=0.1, RKAP=-0.02
+E_th=  0.0  Exp = 0.0
+E_th=  0.024  Exp = 0.123
+E_th=  0.074  Exp = 0.385
+E_th=  0.148  Exp = 0.76
+E_th=  0.244  Exp = 1.223
+E_th=  0.359  Exp = 1.753
+E_th=  0.492  Exp = 2.33
+E_th=  0.644  Exp = 2.899
+Chi2=  11.846012
+ED=0.1, RKAP=-0.03
+E_th=  0.0  Exp = 0.0
+E_th=  0.027  Exp = 0.123
+E_th=  0.086  Exp = 0.385
+E_th=  0.176  Exp = 0.76
+E_th=  0.294  Exp = 1.223
+E_th=  0.438  Exp = 1.753
+E_th=  0.607  Exp = 2.33
+E_th=  0.801  Exp = 2.899
+Chi2=  10.402272
+ED=0.1, RKAP=-0.04
+E_th=  0.0  Exp = 0.0
+E_th=  0.031  Exp = 0.123
+E_th=  0.102  Exp = 0.385
+E_th=  0.21  Exp = 0.76
+E_th=  0.353  Exp = 1.223
+E_th=  0.529  Exp = 1.753
+E_th=  0.736  Exp = 2.33
+E_th=  0.973  Exp = 2.899
+Chi2=  8.896441
+ED=0.1, RKAP=-0.05
+E_th=  0.0  Exp = 0.0
+E_th=  0.036  Exp = 0.123
+E_th=  0.119  Exp = 0.385
+E_th=  0.247  Exp = 0.76
+E_th=  0.415  Exp = 1.223
+E_th=  0.624  Exp = 1.753
+E_th=  0.869  Exp = 2.33
+E_th=  1.15  Exp = 2.899
+Chi2=  7.462521
+ED=0.1, RKAP=-0.06
+E_th=  0.0  Exp = 0.0
+E_th=  0.042  Exp = 0.123
+E_th=  0.137  Exp = 0.385
+E_th=  0.284  Exp = 0.76
+E_th=  0.479  Exp = 1.223
+E_th=  0.72  Exp = 1.753
+E_th=  1.004  Exp = 2.33
+E_th=  1.33  Exp = 2.899
+Chi2=  6.135303
+ED=0.1, RKAP=-0.07
+E_th=  0.0  Exp = 0.0
+E_th=  0.047  Exp = 0.123
+E_th=  0.155  Exp = 0.385
+E_th=  0.322  Exp = 0.76
+E_th=  0.543  Exp = 1.223
+E_th=  0.817  Exp = 1.753
+E_th=  1.14  Exp = 2.33
+E_th=  1.511  Exp = 2.899
+Chi2=  4.93166
+ED=0.1, RKAP=-0.08
+E_th=  0.0  Exp = 0.0
+E_th=  0.053  Exp = 0.123
+E_th=  0.174  Exp = 0.385
+E_th=  0.36  Exp = 0.76
+E_th=  0.608  Exp = 1.223
+E_th=  0.915  Exp = 1.753
+E_th=  1.277  Exp = 2.33
+E_th=  1.693  Exp = 2.899
+Chi2=  3.853135
+ED=0.1, RKAP=-0.09
+E_th=  0.0  Exp = 0.0
+E_th=  0.058  Exp = 0.123
+E_th=  0.192  Exp = 0.385
+E_th=  0.398  Exp = 0.76
+E_th=  0.673  Exp = 1.223
+E_th=  1.013  Exp = 1.753
+E_th=  1.415  Exp = 2.33
+E_th=  1.876  Exp = 2.899
+Chi2=  2.906372
+ED=0.1, RKAP=-0.1
+E_th=  0.0  Exp = 0.0
+E_th=  0.064  Exp = 0.123
+E_th=  0.21  Exp = 0.385
+E_th=  0.436  Exp = 0.76
+E_th=  0.738  Exp = 1.223
+E_th=  1.111  Exp = 1.753
+E_th=  1.552  Exp = 2.33
+E_th=  2.059  Exp = 2.899
+Chi2=  2.097355
+ED=0.2, RKAP=0
+E_th=  0.0  Exp = 0.0
+E_th=  0.2  Exp = 0.123
+E_th=  0.4  Exp = 0.385
+E_th=  0.6  Exp = 0.76
+E_th=  0.8  Exp = 1.223
+E_th=  1.0  Exp = 1.753
+E_th=  1.2  Exp = 2.33
+E_th=  1.4  Exp = 2.899
+Chi2=  4.301593
+ED=0.2, RKAP=-0.01
+E_th=  0.0  Exp = 0.0
+E_th=  0.138  Exp = 0.123
+E_th=  0.288  Exp = 0.385
+E_th=  0.451  Exp = 0.76
+E_th=  0.625  Exp = 1.223
+E_th=  0.811  Exp = 1.753
+E_th=  1.009  Exp = 2.33
+E_th=  1.218  Exp = 2.899
+Chi2=  5.920885
+ED=0.2, RKAP=-0.02
+E_th=  0.0  Exp = 0.0
+E_th=  0.079  Exp = 0.123
+E_th=  0.19  Exp = 0.385
+E_th=  0.329  Exp = 0.76
+E_th=  0.493  Exp = 1.223
+E_th=  0.681  Exp = 1.753
+E_th=  0.892  Exp = 2.33
+E_th=  1.123  Exp = 2.899
+Chi2=  7.129826
+ED=0.2, RKAP=-0.03
+E_th=  0.0  Exp = 0.0
+E_th=  0.053  Exp = 0.123
+E_th=  0.151  Exp = 0.385
+E_th=  0.288  Exp = 0.76
+E_th=  0.461  Exp = 1.223
+E_th=  0.666  Exp = 1.753
+E_th=  0.902  Exp = 2.33
+E_th=  1.167  Exp = 2.899
+Chi2=  7.083661
+ED=0.2, RKAP=-0.04
+E_th=  0.0  Exp = 0.0
+E_th=  0.048  Exp = 0.123
+E_th=  0.149  Exp = 0.385
+E_th=  0.297  Exp = 0.76
+E_th=  0.487  Exp = 1.223
+E_th=  0.717  Exp = 1.753
+E_th=  0.984  Exp = 2.33
+E_th=  1.287  Exp = 2.899
+Chi2=  6.300942
+ED=0.2, RKAP=-0.05
+E_th=  0.0  Exp = 0.0
+E_th=  0.05  Exp = 0.123
+E_th=  0.159  Exp = 0.385
+E_th=  0.321  Exp = 0.76
+E_th=  0.533  Exp = 1.223
+E_th=  0.792  Exp = 1.753
+E_th=  1.094  Exp = 2.33
+E_th=  1.438  Exp = 2.899
+Chi2=  5.310964
+ED=0.2, RKAP=-0.06
+E_th=  0.0  Exp = 0.0
+E_th=  0.053  Exp = 0.123
+E_th=  0.172  Exp = 0.385
+E_th=  0.352  Exp = 0.76
+E_th=  0.588  Exp = 1.223
+E_th=  0.876  Exp = 1.753
+E_th=  1.215  Exp = 2.33
+E_th=  1.601  Exp = 2.899
+Chi2=  4.317116
+ED=0.2, RKAP=-0.07
+E_th=  0.0  Exp = 0.0
+E_th=  0.058  Exp = 0.123
+E_th=  0.188  Exp = 0.385
+E_th=  0.385  Exp = 0.76
+E_th=  0.646  Exp = 1.223
+E_th=  0.966  Exp = 1.753
+E_th=  1.342  Exp = 2.33
+E_th=  1.771  Exp = 2.899
+Chi2=  3.384485
+ED=0.2, RKAP=-0.08
+E_th=  0.0  Exp = 0.0
+E_th=  0.062  Exp = 0.123
+E_th=  0.204  Exp = 0.385
+E_th=  0.421  Exp = 0.76
+E_th=  0.706  Exp = 1.223
+E_th=  1.058  Exp = 1.753
+E_th=  1.472  Exp = 2.33
+E_th=  1.945  Exp = 2.899
+Chi2=  2.547997
+ED=0.2, RKAP=-0.09
+E_th=  0.0  Exp = 0.0
+E_th=  0.068  Exp = 0.123
+E_th=  0.221  Exp = 0.385
+E_th=  0.457  Exp = 0.76
+E_th=  0.768  Exp = 1.223
+E_th=  1.152  Exp = 1.753
+E_th=  1.604  Exp = 2.33
+E_th=  2.122  Exp = 2.899
+Chi2=  1.820761
+ED=0.2, RKAP=-0.1
+E_th=  0.0  Exp = 0.0
+E_th=  0.073  Exp = 0.123
+E_th=  0.239  Exp = 0.385
+E_th=  0.493  Exp = 0.76
+E_th=  0.831  Exp = 1.223
+E_th=  1.247  Exp = 1.753
+E_th=  1.738  Exp = 2.33
+E_th=  2.3  Exp = 2.899
+Chi2=  1.21407
+ED=0.3, RKAP=0
+E_th=  0.0  Exp = 0.0
+E_th=  0.3  Exp = 0.123
+E_th=  0.6  Exp = 0.385
+E_th=  0.9  Exp = 0.76
+E_th=  1.2  Exp = 1.223
+E_th=  1.5  Exp = 1.753
+E_th=  1.8  Exp = 2.33
+E_th=  2.1  Exp = 2.899
+Chi2=  1.080993
+ED=0.3, RKAP=-0.01
+E_th=  0.0  Exp = 0.0
+E_th=  0.239  Exp = 0.123
+E_th=  0.489  Exp = 0.385
+E_th=  0.75  Exp = 0.76
+E_th=  1.023  Exp = 1.223
+E_th=  1.307  Exp = 1.753
+E_th=  1.603  Exp = 2.33
+E_th=  1.91  Exp = 2.899
+Chi2=  1.769938
+ED=0.3, RKAP=-0.02
+E_th=  0.0  Exp = 0.0
+E_th=  0.175  Exp = 0.123
+E_th=  0.377  Exp = 0.385
+E_th=  0.605  Exp = 0.76
+E_th=  0.858  Exp = 1.223
+E_th=  1.135  Exp = 1.753
+E_th=  1.436  Exp = 2.33
+E_th=  1.759  Exp = 2.899
+Chi2=  2.640778
+ED=0.3, RKAP=-0.03
+E_th=  0.0  Exp = 0.0
+E_th=  0.119  Exp = 0.123
+E_th=  0.285  Exp = 0.385
+E_th=  0.493  Exp = 0.76
+E_th=  0.739  Exp = 1.223
+E_th=  1.021  Exp = 1.753
+E_th=  1.337  Exp = 2.33
+E_th=  1.685  Exp = 2.899
+Chi2=  3.31123
+ED=0.3, RKAP=-0.04
+E_th=  0.0  Exp = 0.0
+E_th=  0.087  Exp = 0.123
+E_th=  0.236  Exp = 0.385
+E_th=  0.44  Exp = 0.76
+E_th=  0.693  Exp = 1.223
+E_th=  0.99  Exp = 1.753
+E_th=  1.33  Exp = 2.33
+E_th=  1.709  Exp = 2.899
+Chi2=  3.405066
+ED=0.3, RKAP=-0.05
+E_th=  0.0  Exp = 0.0
+E_th=  0.075  Exp = 0.123
+E_th=  0.222  Exp = 0.385
+E_th=  0.432  Exp = 0.76
+E_th=  0.699  Exp = 1.223
+E_th=  1.018  Exp = 1.753
+E_th=  1.387  Exp = 2.33
+E_th=  1.802  Exp = 2.899
+Chi2=  3.043916
+ED=0.3, RKAP=-0.06
+E_th=  0.0  Exp = 0.0
+E_th=  0.072  Exp = 0.123
+E_th=  0.223  Exp = 0.385
+E_th=  0.445  Exp = 0.76
+E_th=  0.731  Exp = 1.223
+E_th=  1.076  Exp = 1.753
+E_th=  1.477  Exp = 2.33
+E_th=  1.931  Exp = 2.899
+Chi2=  2.493096
+ED=0.3, RKAP=-0.07
+E_th=  0.0  Exp = 0.0
+E_th=  0.073  Exp = 0.123
+E_th=  0.232  Exp = 0.385
+E_th=  0.468  Exp = 0.76
+E_th=  0.775  Exp = 1.223
+E_th=  1.148  Exp = 1.753
+E_th=  1.583  Exp = 2.33
+E_th=  2.079  Exp = 2.899
+Chi2=  1.908311
+ED=0.3, RKAP=-0.08
+E_th=  0.0  Exp = 0.0
+E_th=  0.076  Exp = 0.123
+E_th=  0.244  Exp = 0.385
+E_th=  0.496  Exp = 0.76
+E_th=  0.826  Exp = 1.223
+E_th=  1.229  Exp = 1.753
+E_th=  1.7  Exp = 2.33
+E_th=  2.237  Exp = 2.899
+Chi2=  1.359115
+ED=0.3, RKAP=-0.09
+E_th=  0.0  Exp = 0.0
+E_th=  0.08  Exp = 0.123
+E_th=  0.258  Exp = 0.385
+E_th=  0.528  Exp = 0.76
+E_th=  0.882  Exp = 1.223
+E_th=  1.314  Exp = 1.753
+E_th=  1.822  Exp = 2.33
+E_th=  2.402  Exp = 2.899
+Chi2=  0.885877
+ED=0.3, RKAP=-0.1
+E_th=  0.0  Exp = 0.0
+E_th=  0.084  Exp = 0.123
+E_th=  0.274  Exp = 0.385
+E_th=  0.561  Exp = 0.76
+E_th=  0.939  Exp = 1.223
+E_th=  1.403  Exp = 1.753
+E_th=  1.948  Exp = 2.33
+E_th=  2.571  Exp = 2.899
+Chi2=  0.510107
+ED=0.4, RKAP=0
+E_th=  0.0  Exp = 0.0
+E_th=  0.4  Exp = 0.123
+E_th=  0.8  Exp = 0.385
+E_th=  1.2  Exp = 0.76
+E_th=  1.6  Exp = 1.223
+E_th=  2.0  Exp = 1.753
+E_th=  2.4  Exp = 2.33
+E_th=  2.8  Exp = 2.899
+Chi2=  0.660393
+ED=0.4, RKAP=-0.01
+E_th=  0.0  Exp = 0.0
+E_th=  0.339  Exp = 0.123
+E_th=  0.689  Exp = 0.385
+E_th=  1.05  Exp = 0.76
+E_th=  1.422  Exp = 1.223
+E_th=  1.806  Exp = 1.753
+E_th=  2.2  Exp = 2.33
+E_th=  2.606  Exp = 2.899
+Chi2=  0.368331
+ED=0.4, RKAP=-0.02
+E_th=  0.0  Exp = 0.0
+E_th=  0.276  Exp = 0.123
+E_th=  0.576  Exp = 0.385
+E_th=  0.901  Exp = 0.76
+E_th=  1.25  Exp = 1.223
+E_th=  1.622  Exp = 1.753
+E_th=  2.018  Exp = 2.33
+E_th=  2.436  Exp = 2.899
+Chi2=  0.409374
+ED=0.4, RKAP=-0.03
+E_th=  0.0  Exp = 0.0
+E_th=  0.213  Exp = 0.123
+E_th=  0.468  Exp = 0.385
+E_th=  0.763  Exp = 0.76
+E_th=  1.097  Exp = 1.223
+E_th=  1.466  Exp = 1.753
+E_th=  1.871  Exp = 2.33
+E_th=  2.309  Exp = 2.899
+Chi2=  0.672024
+ED=0.4, RKAP=-0.04
+E_th=  0.0  Exp = 0.0
+E_th=  0.159  Exp = 0.123
+E_th=  0.38  Exp = 0.385
+E_th=  0.657  Exp = 0.76
+E_th=  0.986  Exp = 1.223
+E_th=  1.362  Exp = 1.753
+E_th=  1.783  Exp = 2.33
+E_th=  2.247  Exp = 2.899
+Chi2=  0.945293
+ED=0.4, RKAP=-0.05
+E_th=  0.0  Exp = 0.0
+E_th=  0.123  Exp = 0.123
+E_th=  0.326  Exp = 0.385
+E_th=  0.598  Exp = 0.76
+E_th=  0.931  Exp = 1.223
+E_th=  1.321  Exp = 1.753
+E_th=  1.765  Exp = 2.33
+E_th=  2.26  Exp = 2.899
+Chi2=  1.029159
+ED=0.4, RKAP=-0.06
+E_th=  0.0  Exp = 0.0
+E_th=  0.105  Exp = 0.123
+E_th=  0.302  Exp = 0.385
+E_th=  0.576  Exp = 0.76
+E_th=  0.922  Exp = 1.223
+E_th=  1.332  Exp = 1.753
+E_th=  1.803  Exp = 2.33
+E_th=  2.333  Exp = 2.899
+Chi2=  0.906996
+ED=0.4, RKAP=-0.07
+E_th=  0.0  Exp = 0.0
+E_th=  0.098  Exp = 0.123
+E_th=  0.295  Exp = 0.385
+E_th=  0.579  Exp = 0.76
+E_th=  0.94  Exp = 1.223
+E_th=  1.374  Exp = 1.753
+E_th=  1.876  Exp = 2.33
+E_th=  2.443  Exp = 2.899
+Chi2=  0.679268
+ED=0.4, RKAP=-0.08
+E_th=  0.0  Exp = 0.0
+E_th=  0.096  Exp = 0.123
+E_th=  0.298  Exp = 0.385
+E_th=  0.593  Exp = 0.76
+E_th=  0.974  Exp = 1.223
+E_th=  1.434  Exp = 1.753
+E_th=  1.969  Exp = 2.33
+E_th=  2.575  Exp = 2.899
+Chi2=  0.435246
+ED=0.4, RKAP=-0.09
+E_th=  0.0  Exp = 0.0
+E_th=  0.097  Exp = 0.123
+E_th=  0.306  Exp = 0.385
+E_th=  0.616  Exp = 0.76
+E_th=  1.018  Exp = 1.223
+E_th=  1.505  Exp = 1.753
+E_th=  2.074  Exp = 2.33
+E_th=  2.721  Exp = 2.899
+Chi2=  0.228402
+ED=0.4, RKAP=-0.1
+E_th=  0.0  Exp = 0.0
+E_th=  0.099  Exp = 0.123
+E_th=  0.317  Exp = 0.385
+E_th=  0.642  Exp = 0.76
+E_th=  1.067  Exp = 1.223
+E_th=  1.583  Exp = 1.753
+E_th=  2.188  Exp = 2.33
+E_th=  2.876  Exp = 2.899
+Chi2=  0.093053
+ED=0.5, RKAP=0
+E_th=  0.0  Exp = 0.0
+E_th=  0.5  Exp = 0.123
+E_th=  1.0  Exp = 0.385
+E_th=  1.5  Exp = 0.76
+E_th=  2.0  Exp = 1.223
+E_th=  2.5  Exp = 1.753
+E_th=  3.0  Exp = 2.33
+E_th=  3.5  Exp = 2.899
+Chi2=  3.039793
+ED=0.5, RKAP=-0.01
+E_th=  0.0  Exp = 0.0
+E_th=  0.439  Exp = 0.123
+E_th=  0.889  Exp = 0.385
+E_th=  1.35  Exp = 0.76
+E_th=  1.822  Exp = 1.223
+E_th=  2.305  Exp = 1.753
+E_th=  2.799  Exp = 2.33
+E_th=  3.304  Exp = 2.899
+Chi2=  1.749463
+ED=0.5, RKAP=-0.02
+E_th=  0.0  Exp = 0.0
+E_th=  0.377  Exp = 0.123
+E_th=  0.777  Exp = 0.385
+E_th=  1.2  Exp = 0.76
+E_th=  1.647  Exp = 1.223
+E_th=  2.117  Exp = 1.753
+E_th=  2.61  Exp = 2.33
+E_th=  3.126  Exp = 2.899
+Chi2=  0.853981
+ED=0.5, RKAP=-0.03
+E_th=  0.0  Exp = 0.0
+E_th=  0.313  Exp = 0.123
+E_th=  0.665  Exp = 0.385
+E_th=  1.055  Exp = 0.76
+E_th=  1.481  Exp = 1.223
+E_th=  1.944  Exp = 1.753
+E_th=  2.442  Exp = 2.33
+E_th=  2.974  Exp = 2.899
+Chi2=  0.322739
+ED=0.5, RKAP=-0.04
+E_th=  0.0  Exp = 0.0
+E_th=  0.251  Exp = 0.123
+E_th=  0.56  Exp = 0.385
+E_th=  0.923  Exp = 0.76
+E_th=  1.338  Exp = 1.223
+E_th=  1.801  Exp = 1.753
+E_th=  2.31  Exp = 2.33
+E_th=  2.863  Exp = 2.899
+Chi2=  0.090803
+ED=0.5, RKAP=-0.05
+E_th=  0.0  Exp = 0.0
+E_th=  0.198  Exp = 0.123
+E_th=  0.475  Exp = 0.385
+E_th=  0.821  Exp = 0.76
+E_th=  1.232  Exp = 1.223
+E_th=  1.702  Exp = 1.753
+E_th=  2.229  Exp = 2.33
+E_th=  2.809  Exp = 2.899
+Chi2=  0.038429
+ED=0.5, RKAP=-0.06
+E_th=  0.0  Exp = 0.0
+E_th=  0.161  Exp = 0.123
+E_th=  0.417  Exp = 0.385
+E_th=  0.757  Exp = 0.76
+E_th=  1.172  Exp = 1.223
+E_th=  1.656  Exp = 1.753
+E_th=  2.205  Exp = 2.33
+E_th=  2.815  Exp = 2.899
+Chi2=  0.037168
+ED=0.5, RKAP=-0.07
+E_th=  0.0  Exp = 0.0
+E_th=  0.138  Exp = 0.123
+E_th=  0.386  Exp = 0.385
+E_th=  0.727  Exp = 0.76
+E_th=  1.152  Exp = 1.223
+E_th=  1.654  Exp = 1.753
+E_th=  2.229  Exp = 2.33
+E_th=  2.873  Exp = 2.899
+Chi2=  0.027034
+ED=0.5, RKAP=-0.08
+E_th=  0.0  Exp = 0.0
+E_th=  0.127  Exp = 0.123
+E_th=  0.372  Exp = 0.385
+E_th=  0.719  Exp = 0.76
+E_th=  1.158  Exp = 1.223
+E_th=  1.682  Exp = 1.753
+E_th=  2.287  Exp = 2.33
+E_th=  2.967  Exp = 2.899
+Chi2=  0.017605
+ED=0.5, RKAP=-0.09
+E_th=  0.0  Exp = 0.0
+E_th=  0.121  Exp = 0.123
+E_th=  0.369  Exp = 0.385
+E_th=  0.726  Exp = 0.76
+E_th=  1.182  Exp = 1.223
+E_th=  1.731  Exp = 1.753
+E_th=  2.367  Exp = 2.33
+E_th=  3.085  Exp = 2.899
+Chi2=  0.039546
+ED=0.5, RKAP=-0.1
+E_th=  0.0  Exp = 0.0
+E_th=  0.12  Exp = 0.123
+E_th=  0.372  Exp = 0.385
+E_th=  0.742  Exp = 0.76
+E_th=  1.218  Exp = 1.223
+E_th=  1.793  Exp = 1.753
+E_th=  2.461  Exp = 2.33
+E_th=  3.219  Exp = 2.899
+Chi2=  0.121688
+ED=0.6, RKAP=0
+E_th=  0.0  Exp = 0.0
+E_th=  0.6  Exp = 0.123
+E_th=  1.2  Exp = 0.385
+E_th=  1.8  Exp = 0.76
+E_th=  2.4  Exp = 1.223
+E_th=  3.0  Exp = 1.753
+E_th=  3.6  Exp = 2.33
+E_th=  4.2  Exp = 2.899
+Chi2=  8.219193
+ED=0.6, RKAP=-0.01
+E_th=  0.0  Exp = 0.0
+E_th=  0.539  Exp = 0.123
+E_th=  1.089  Exp = 0.385
+E_th=  1.65  Exp = 0.76
+E_th=  2.222  Exp = 1.223
+E_th=  2.804  Exp = 1.753
+E_th=  3.398  Exp = 2.33
+E_th=  4.003  Exp = 2.899
+Chi2=  5.922814
+ED=0.6, RKAP=-0.02
+E_th=  0.0  Exp = 0.0
+E_th=  0.477  Exp = 0.123
+E_th=  0.977  Exp = 0.385
+E_th=  1.5  Exp = 0.76
+E_th=  2.046  Exp = 1.223
+E_th=  2.614  Exp = 1.753
+E_th=  3.205  Exp = 2.33
+E_th=  3.819  Exp = 2.899
+Chi2=  4.054055
+ED=0.6, RKAP=-0.03
+E_th=  0.0  Exp = 0.0
+E_th=  0.414  Exp = 0.123
+E_th=  0.865  Exp = 0.385
+E_th=  1.352  Exp = 0.76
+E_th=  1.875  Exp = 1.223
+E_th=  2.433  Exp = 1.753
+E_th=  3.027  Exp = 2.33
+E_th=  3.654  Exp = 2.899
+Chi2=  2.608883
+ED=0.6, RKAP=-0.04
+E_th=  0.0  Exp = 0.0
+E_th=  0.35  Exp = 0.123
+E_th=  0.754  Exp = 0.385
+E_th=  1.21  Exp = 0.76
+E_th=  1.716  Exp = 1.223
+E_th=  2.271  Exp = 1.753
+E_th=  2.872  Exp = 2.33
+E_th=  3.517  Exp = 2.899
+Chi2=  1.577251
+ED=0.6, RKAP=-0.05
+E_th=  0.0  Exp = 0.0
+E_th=  0.29  Exp = 0.123
+E_th=  0.653  Exp = 0.385
+E_th=  1.085  Exp = 0.76
+E_th=  1.581  Exp = 1.223
+E_th=  2.137  Exp = 1.753
+E_th=  2.751  Exp = 2.33
+E_th=  3.42  Exp = 2.899
+Chi2=  0.92964
+ED=0.6, RKAP=-0.06
+E_th=  0.0  Exp = 0.0
+E_th=  0.238  Exp = 0.123
+E_th=  0.569  Exp = 0.385
+E_th=  0.986  Exp = 0.76
+E_th=  1.479  Exp = 1.223
+E_th=  2.043  Exp = 1.753
+E_th=  2.675  Exp = 2.33
+E_th=  3.37  Exp = 2.899
+Chi2=  0.588659
+ED=0.6, RKAP=-0.07
+E_th=  0.0  Exp = 0.0
+E_th=  0.199  Exp = 0.123
+E_th=  0.51  Exp = 0.385
+E_th=  0.919  Exp = 0.76
+E_th=  1.415  Exp = 1.223
+E_th=  1.992  Exp = 1.753
+E_th=  2.646  Exp = 2.33
+E_th=  3.372  Exp = 2.899
+Chi2=  0.464252
+ED=0.6, RKAP=-0.08
+E_th=  0.0  Exp = 0.0
+E_th=  0.173  Exp = 0.123
+E_th=  0.472  Exp = 0.385
+E_th=  0.881  Exp = 0.76
+E_th=  1.386  Exp = 1.223
+E_th=  1.98  Exp = 1.753
+E_th=  2.66  Exp = 2.33
+E_th=  3.419  Exp = 2.899
+Chi2=  0.482108
+ED=0.6, RKAP=-0.09
+E_th=  0.0  Exp = 0.0
+E_th=  0.158  Exp = 0.123
+E_th=  0.452  Exp = 0.385
+E_th=  0.865  Exp = 0.76
+E_th=  1.383  Exp = 1.223
+E_th=  1.998  Exp = 1.753
+E_th=  2.705  Exp = 2.33
+E_th=  3.5  Exp = 2.899
+Chi2=  0.60419
+ED=0.6, RKAP=-0.1
+E_th=  0.0  Exp = 0.0
+E_th=  0.149  Exp = 0.123
+E_th=  0.444  Exp = 0.385
+E_th=  0.864  Exp = 0.76
+E_th=  1.398  Exp = 1.223
+E_th=  2.036  Exp = 1.753
+E_th=  2.773  Exp = 2.33
+E_th=  3.605  Exp = 2.899
+Chi2=  0.820372
+ED=0.7, RKAP=0
+E_th=  0.0  Exp = 0.0
+E_th=  0.7  Exp = 0.123
+E_th=  1.4  Exp = 0.385
+E_th=  2.1  Exp = 0.76
+E_th=  2.8  Exp = 1.223
+E_th=  3.5  Exp = 1.753
+E_th=  4.2  Exp = 2.33
+E_th=  4.9  Exp = 2.899
+Chi2=  16.198593
+ED=0.7, RKAP=-0.01
+E_th=  0.0  Exp = 0.0
+E_th=  0.639  Exp = 0.123
+E_th=  1.29  Exp = 0.385
+E_th=  1.95  Exp = 0.76
+E_th=  2.622  Exp = 1.223
+E_th=  3.304  Exp = 1.753
+E_th=  3.998  Exp = 2.33
+E_th=  4.702  Exp = 2.899
+Chi2=  12.897216
+ED=0.7, RKAP=-0.02
+E_th=  0.0  Exp = 0.0
+E_th=  0.578  Exp = 0.123
+E_th=  1.178  Exp = 0.385
+E_th=  1.8  Exp = 0.76
+E_th=  2.445  Exp = 1.223
+E_th=  3.112  Exp = 1.753
+E_th=  3.802  Exp = 2.33
+E_th=  4.515  Exp = 2.899
+Chi2=  10.035879
+ED=0.7, RKAP=-0.03
+E_th=  0.0  Exp = 0.0
+E_th=  0.515  Exp = 0.123
+E_th=  1.065  Exp = 0.385
+E_th=  1.651  Exp = 0.76
+E_th=  2.272  Exp = 1.223
+E_th=  2.927  Exp = 1.753
+E_th=  3.618  Exp = 2.33
+E_th=  4.343  Exp = 2.899
+Chi2=  7.632702
+ED=0.7, RKAP=-0.04
+E_th=  0.0  Exp = 0.0
+E_th=  0.451  Exp = 0.123
+E_th=  0.953  Exp = 0.385
+E_th=  1.505  Exp = 0.76
+E_th=  2.106  Exp = 1.223
+E_th=  2.754  Exp = 1.753
+E_th=  3.45  Exp = 2.33
+E_th=  4.19  Exp = 2.899
+Chi2=  5.688004
+ED=0.7, RKAP=-0.05
+E_th=  0.0  Exp = 0.0
+E_th=  0.388  Exp = 0.123
+E_th=  0.845  Exp = 0.385
+E_th=  1.368  Exp = 0.76
+E_th=  1.954  Exp = 1.223
+E_th=  2.6  Exp = 1.753
+E_th=  3.305  Exp = 2.33
+E_th=  4.066  Exp = 2.899
+Chi2=  4.215773
+ED=0.7, RKAP=-0.06
+E_th=  0.0  Exp = 0.0
+E_th=  0.329  Exp = 0.123
+E_th=  0.746  Exp = 0.385
+E_th=  1.247  Exp = 0.76
+E_th=  1.824  Exp = 1.223
+E_th=  2.474  Exp = 1.753
+E_th=  3.193  Exp = 2.33
+E_th=  3.978  Exp = 2.899
+Chi2=  3.199978
+ED=0.7, RKAP=-0.07
+E_th=  0.0  Exp = 0.0
+E_th=  0.278  Exp = 0.123
+E_th=  0.664  Exp = 0.385
+E_th=  1.15  Exp = 0.76
+E_th=  1.725  Exp = 1.223
+E_th=  2.383  Exp = 1.753
+E_th=  3.12  Exp = 2.33
+E_th=  3.932  Exp = 2.899
+Chi2=  2.594059
+ED=0.7, RKAP=-0.08
+E_th=  0.0  Exp = 0.0
+E_th=  0.237  Exp = 0.123
+E_th=  0.603  Exp = 0.385
+E_th=  1.081  Exp = 0.76
+E_th=  1.659  Exp = 1.223
+E_th=  2.33  Exp = 1.753
+E_th=  3.089  Exp = 2.33
+E_th=  3.93  Exp = 2.899
+Chi2=  2.325628
+ED=0.7, RKAP=-0.09
+E_th=  0.0  Exp = 0.0
+E_th=  0.209  Exp = 0.123
+E_th=  0.561  Exp = 0.385
+E_th=  1.037  Exp = 0.76
+E_th=  1.623  Exp = 1.223
+E_th=  2.311  Exp = 1.753
+E_th=  3.094  Exp = 2.33
+E_th=  3.968  Exp = 2.899
+Chi2=  2.312922
+ED=0.7, RKAP=-0.1
+E_th=  0.0  Exp = 0.0
+E_th=  0.19  Exp = 0.123
+E_th=  0.536  Exp = 0.385
+E_th=  1.014  Exp = 0.76
+E_th=  1.612  Exp = 1.223
+E_th=  2.319  Exp = 1.753
+E_th=  3.129  Exp = 2.33
+E_th=  4.038  Exp = 2.899
+Chi2=  2.499205
+ED=0.8, RKAP=0
+E_th=  0.0  Exp = 0.0
+E_th=  0.8  Exp = 0.123
+E_th=  1.6  Exp = 0.385
+E_th=  2.4  Exp = 0.76
+E_th=  3.2  Exp = 1.223
+E_th=  4.0  Exp = 1.753
+E_th=  4.8  Exp = 2.33
+E_th=  5.6  Exp = 2.899
+Chi2=  26.977993
+ED=0.8, RKAP=-0.01
+E_th=  0.0  Exp = 0.0
+E_th=  0.74  Exp = 0.123
+E_th=  1.49  Exp = 0.385
+E_th=  2.25  Exp = 0.76
+E_th=  3.022  Exp = 1.223
+E_th=  3.804  Exp = 1.753
+E_th=  4.597  Exp = 2.33
+E_th=  5.402  Exp = 2.899
+Chi2=  22.669114
+ED=0.8, RKAP=-0.02
+E_th=  0.0  Exp = 0.0
+E_th=  0.678  Exp = 0.123
+E_th=  1.378  Exp = 0.385
+E_th=  2.1  Exp = 0.76
+E_th=  2.844  Exp = 1.223
+E_th=  3.611  Exp = 1.753
+E_th=  4.4  Exp = 2.33
+E_th=  5.212  Exp = 2.899
+Chi2=  18.804348
+ED=0.8, RKAP=-0.03
+E_th=  0.0  Exp = 0.0
+E_th=  0.615  Exp = 0.123
+E_th=  1.266  Exp = 0.385
+E_th=  1.95  Exp = 0.76
+E_th=  2.67  Exp = 1.223
+E_th=  3.424  Exp = 1.753
+E_th=  4.212  Exp = 2.33
+E_th=  5.035  Exp = 2.899
+Chi2=  15.424795
+ED=0.8, RKAP=-0.04
+E_th=  0.0  Exp = 0.0
+E_th=  0.552  Exp = 0.123
+E_th=  1.153  Exp = 0.385
+E_th=  1.802  Exp = 0.76
+E_th=  2.5  Exp = 1.223
+E_th=  3.245  Exp = 1.753
+E_th=  4.036  Exp = 2.33
+E_th=  4.873  Exp = 2.899
+Chi2=  12.523534
+ED=0.8, RKAP=-0.05
+E_th=  0.0  Exp = 0.0
+E_th=  0.488  Exp = 0.123
+E_th=  1.042  Exp = 0.385
+E_th=  1.659  Exp = 0.76
+E_th=  2.339  Exp = 1.223
+E_th=  3.079  Exp = 1.753
+E_th=  3.877  Exp = 2.33
+E_th=  4.731  Exp = 2.899
+Chi2=  10.12624
+ED=0.8, RKAP=-0.06
+E_th=  0.0  Exp = 0.0
+E_th=  0.426  Exp = 0.123
+E_th=  0.936  Exp = 0.385
+E_th=  1.526  Exp = 0.76
+E_th=  2.193  Exp = 1.223
+E_th=  2.933  Exp = 1.753
+E_th=  3.742  Exp = 2.33
+E_th=  4.617  Exp = 2.899
+Chi2=  8.260734
+ED=0.8, RKAP=-0.07
+E_th=  0.0  Exp = 0.0
+E_th=  0.368  Exp = 0.123
+E_th=  0.84  Exp = 0.385
+E_th=  1.41  Exp = 0.76
+E_th=  2.069  Exp = 1.223
+E_th=  2.813  Exp = 1.753
+E_th=  3.636  Exp = 2.33
+E_th=  4.537  Exp = 2.899
+Chi2=  6.917546
+ED=0.8, RKAP=-0.08
+E_th=  0.0  Exp = 0.0
+E_th=  0.317  Exp = 0.123
+E_th=  0.759  Exp = 0.385
+E_th=  1.314  Exp = 0.76
+E_th=  1.971  Exp = 1.223
+E_th=  2.724  Exp = 1.753
+E_th=  3.566  Exp = 2.33
+E_th=  4.494  Exp = 2.899
+Chi2=  6.058494
+ED=0.8, RKAP=-0.09
+E_th=  0.0  Exp = 0.0
+E_th=  0.276  Exp = 0.123
+E_th=  0.697  Exp = 0.385
+E_th=  1.243  Exp = 0.76
+E_th=  1.903  Exp = 1.223
+E_th=  2.668  Exp = 1.753
+E_th=  3.532  Exp = 2.33
+E_th=  4.489  Exp = 2.899
+Chi2=  5.626571
+ED=0.8, RKAP=-0.1
+E_th=  0.0  Exp = 0.0
+E_th=  0.246  Exp = 0.123
+E_th=  0.651  Exp = 0.385
+E_th=  1.195  Exp = 0.76
+E_th=  1.862  Exp = 1.223
+E_th=  2.643  Exp = 1.753
+E_th=  3.531  Exp = 2.33
+E_th=  4.521  Exp = 2.899
+Chi2=  5.548816
+ED=0.9, RKAP=0
+E_th=  0.0  Exp = 0.0
+E_th=  0.9  Exp = 0.123
+E_th=  1.8  Exp = 0.385
+E_th=  2.7  Exp = 0.76
+E_th=  3.6  Exp = 1.223
+E_th=  4.5  Exp = 1.753
+E_th=  5.4  Exp = 2.33
+E_th=  6.3  Exp = 2.899
+Chi2=  40.557393
+ED=0.9, RKAP=-0.01
+E_th=  0.0  Exp = 0.0
+E_th=  0.84  Exp = 0.123
+E_th=  1.69  Exp = 0.385
+E_th=  2.55  Exp = 0.76
+E_th=  3.421  Exp = 1.223
+E_th=  4.304  Exp = 1.753
+E_th=  5.197  Exp = 2.33
+E_th=  6.101  Exp = 2.899
+Chi2=  35.232512
+ED=0.9, RKAP=-0.02
+E_th=  0.0  Exp = 0.0
+E_th=  0.778  Exp = 0.123
+E_th=  1.578  Exp = 0.385
+E_th=  2.4  Exp = 0.76
+E_th=  3.244  Exp = 1.223
+E_th=  4.11  Exp = 1.753
+E_th=  4.999  Exp = 2.33
+E_th=  5.91  Exp = 2.899
+Chi2=  30.371446
+ED=0.9, RKAP=-0.03
+E_th=  0.0  Exp = 0.0
+E_th=  0.716  Exp = 0.123
+E_th=  1.466  Exp = 0.385
+E_th=  2.25  Exp = 0.76
+E_th=  3.069  Exp = 1.223
+E_th=  3.921  Exp = 1.753
+E_th=  4.808  Exp = 2.33
+E_th=  5.729  Exp = 2.899
+Chi2=  25.997634
+ED=0.9, RKAP=-0.04
+E_th=  0.0  Exp = 0.0
+E_th=  0.653  Exp = 0.123
+E_th=  1.353  Exp = 0.385
+E_th=  2.101  Exp = 0.76
+E_th=  2.896  Exp = 1.223
+E_th=  3.738  Exp = 1.753
+E_th=  4.626  Exp = 2.33
+E_th=  5.56  Exp = 2.899
+Chi2=  22.107896
+ED=0.9, RKAP=-0.05
+E_th=  0.0  Exp = 0.0
+E_th=  0.589  Exp = 0.123
+E_th=  1.241  Exp = 0.385
+E_th=  1.955  Exp = 0.76
+E_th=  2.73  Exp = 1.223
+E_th=  3.565  Exp = 1.753
+E_th=  4.458  Exp = 2.33
+E_th=  5.408  Exp = 2.899
+Chi2=  18.755775
+ED=0.9, RKAP=-0.06
+E_th=  0.0  Exp = 0.0
+E_th=  0.526  Exp = 0.123
+E_th=  1.131  Exp = 0.385
+E_th=  1.815  Exp = 0.76
+E_th=  2.574  Exp = 1.223
+E_th=  3.406  Exp = 1.753
+E_th=  4.307  Exp = 2.33
+E_th=  5.276  Exp = 2.899
+Chi2=  15.948218
+ED=0.9, RKAP=-0.07
+E_th=  0.0  Exp = 0.0
+E_th=  0.464  Exp = 0.123
+E_th=  1.028  Exp = 0.385
+E_th=  1.686  Exp = 0.76
+E_th=  2.434  Exp = 1.223
+E_th=  3.266  Exp = 1.753
+E_th=  4.18  Exp = 2.33
+E_th=  5.171  Exp = 2.899
+Chi2=  13.72738
+ED=0.9, RKAP=-0.08
+E_th=  0.0  Exp = 0.0
+E_th=  0.407  Exp = 0.123
+E_th=  0.934  Exp = 0.385
+E_th=  1.573  Exp = 0.76
+E_th=  2.314  Exp = 1.223
+E_th=  3.151  Exp = 1.753
+E_th=  4.08  Exp = 2.33
+E_th=  5.096  Exp = 2.899
+Chi2=  12.07702
+ED=0.9, RKAP=-0.09
+E_th=  0.0  Exp = 0.0
+E_th=  0.357  Exp = 0.123
+E_th=  0.854  Exp = 0.385
+E_th=  1.479  Exp = 0.76
+E_th=  2.218  Exp = 1.223
+E_th=  3.064  Exp = 1.753
+E_th=  4.012  Exp = 2.33
+E_th=  5.055  Exp = 2.899
+Chi2=  10.977884
+ED=0.9, RKAP=-0.1
+E_th=  0.0  Exp = 0.0
+E_th=  0.315  Exp = 0.123
+E_th=  0.79  Exp = 0.385
+E_th=  1.406  Exp = 0.76
+E_th=  2.148  Exp = 1.223
+E_th=  3.007  Exp = 1.753
+E_th=  3.976  Exp = 2.33
+E_th=  5.049  Exp = 2.899
+Chi2=  10.378162
+ED=1.0, RKAP=0
+E_th=  0.0  Exp = 0.0
+E_th=  1.0  Exp = 0.123
+E_th=  2.0  Exp = 0.385
+E_th=  3.0  Exp = 0.76
+E_th=  4.0  Exp = 1.223
+E_th=  5.0  Exp = 1.753
+E_th=  6.0  Exp = 2.33
+E_th=  7.0  Exp = 2.899
+Chi2=  56.936793
+ED=1.0, RKAP=-0.01
+E_th=  0.0  Exp = 0.0
+E_th=  0.94  Exp = 0.123
+E_th=  1.89  Exp = 0.385
+E_th=  2.85  Exp = 0.76
+E_th=  3.821  Exp = 1.223
+E_th=  4.803  Exp = 1.753
+E_th=  5.797  Exp = 2.33
+E_th=  6.801  Exp = 2.899
+Chi2=  50.598411
+ED=1.0, RKAP=-0.02
+E_th=  0.0  Exp = 0.0
+E_th=  0.878  Exp = 0.123
+E_th=  1.779  Exp = 0.385
+E_th=  2.7  Exp = 0.76
+E_th=  3.644  Exp = 1.223
+E_th=  4.61  Exp = 1.753
+E_th=  5.598  Exp = 2.33
+E_th=  6.609  Exp = 2.899
+Chi2=  44.744475
+ED=1.0, RKAP=-0.03
+E_th=  0.0  Exp = 0.0
+E_th=  0.816  Exp = 0.123
+E_th=  1.666  Exp = 0.385
+E_th=  2.55  Exp = 0.76
+E_th=  3.468  Exp = 1.223
+E_th=  4.419  Exp = 1.753
+E_th=  5.405  Exp = 2.33
+E_th=  6.425  Exp = 2.899
+Chi2=  39.361192
+ED=1.0, RKAP=-0.04
+E_th=  0.0  Exp = 0.0
+E_th=  0.753  Exp = 0.123
+E_th=  1.554  Exp = 0.385
+E_th=  2.401  Exp = 0.76
+E_th=  3.294  Exp = 1.223
+E_th=  4.234  Exp = 1.753
+E_th=  5.22  Exp = 2.33
+E_th=  6.251  Exp = 2.899
+Chi2=  34.488748
+ED=1.0, RKAP=-0.05
+E_th=  0.0  Exp = 0.0
+E_th=  0.69  Exp = 0.123
+E_th=  1.441  Exp = 0.385
+E_th=  2.253  Exp = 0.76
+E_th=  3.125  Exp = 1.223
+E_th=  4.056  Exp = 1.753
+E_th=  5.045  Exp = 2.33
+E_th=  6.091  Exp = 2.899
+Chi2=  30.147176
+ED=1.0, RKAP=-0.06
+E_th=  0.0  Exp = 0.0
+E_th=  0.626  Exp = 0.123
+E_th=  1.33  Exp = 0.385
+E_th=  2.109  Exp = 0.76
+E_th=  2.963  Exp = 1.223
+E_th=  3.888  Exp = 1.753
+E_th=  4.884  Exp = 2.33
+E_th=  5.947  Exp = 2.899
+Chi2=  26.36488
+ED=1.0, RKAP=-0.07
+E_th=  0.0  Exp = 0.0
+E_th=  0.563  Exp = 0.123
+E_th=  1.222  Exp = 0.385
+E_th=  1.972  Exp = 0.76
+E_th=  2.812  Exp = 1.223
+E_th=  3.735  Exp = 1.753
+E_th=  4.74  Exp = 2.33
+E_th=  5.824  Exp = 2.899
+Chi2=  23.180083
+ED=1.0, RKAP=-0.08
+E_th=  0.0  Exp = 0.0
+E_th=  0.503  Exp = 0.123
+E_th=  1.12  Exp = 0.385
+E_th=  1.847  Exp = 0.76
+E_th=  2.676  Exp = 1.223
+E_th=  3.601  Exp = 1.753
+E_th=  4.619  Exp = 2.33
+E_th=  5.726  Exp = 2.899
+Chi2=  20.623957
+ED=1.0, RKAP=-0.09
+E_th=  0.0  Exp = 0.0
+E_th=  0.446  Exp = 0.123
+E_th=  1.028  Exp = 0.385
+E_th=  1.736  Exp = 0.76
+E_th=  2.559  Exp = 1.223
+E_th=  3.49  Exp = 1.753
+E_th=  4.524  Exp = 2.33
+E_th=  5.656  Exp = 2.899
+Chi2=  18.687104
+ED=1.0, RKAP=-0.1
+E_th=  0.0  Exp = 0.0
+E_th=  0.396  Exp = 0.123
+E_th=  0.949  Exp = 0.385
+E_th=  1.643  Exp = 0.76
+E_th=  2.464  Exp = 1.223
+E_th=  3.405  Exp = 1.753
+E_th=  4.458  Exp = 2.33
+E_th=  5.617  Exp = 2.899
+Chi2=  17.357407
